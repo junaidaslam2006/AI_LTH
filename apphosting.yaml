@@ -14,16 +14,16 @@ env:
   - variable: HUGGINGFACE_API_KEY
     secret: HUGGINGFACE_API_KEY
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    secret: NEXT_PUBLIC_FIREBASE_API_KEY
+    value: "AIzaSyBDJJf8--f2DDkAlFQKFikB36HKHlbTkkM"
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    secret: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+    value: "studio-6196690943-7a32a.firebaseapp.com"
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    secret: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+    value: "studio-6196690943-7a32a"
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    secret: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+    value: "studio-6196690943-7a32a.firebasestorage.app"
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    secret: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+    value: "615460292579"
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    secret: NEXT_PUBLIC_FIREBASE_APP_ID
+    value: "1:615460292579:web:f31ff2c746f7d8997f82d6"
   - variable: NEXT_PUBLIC_APP_URL
-    value: "https://your-app.web.app"
+    value: "https://studio--studio-6196690943-7a32a.us-central1.hosted.app"
